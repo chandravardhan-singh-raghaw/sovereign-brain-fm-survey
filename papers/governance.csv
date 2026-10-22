@@ -1,0 +1,18 @@
+source,type,organisation,url,archived_url,date_accessed,decision,bibkey,used_in_section,verify
+The Digital Personal Data Protection Act 2023,statute,Ministry of Law and Justice; MeitY,https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf,,2026-09-13,include,DPDPAct2023,3.6; 8,no
+Digital Personal Data Protection Rules 2025 (PIB release),rules,Press Information Bureau,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf,,2026-09-17,include,pib2025dpdprules,8,no
+Information Technology Act 2000,statute,Ministry of Law and Justice,,,,include,ITAct2000,8,url in bib
+ICMR National Ethical Guidelines for Biomedical and Health Research Involving Human Participants 2017,guidance,Indian Council of Medical Research,https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf,,2026-09-16,include,icmr2017nationalguidelines,8,no
+ICMR Ethical Guidelines for Application of AI in Biomedical Research and Healthcare 2023,guidance,Indian Council of Medical Research,https://www.icmr.gov.in/ethical-guidelines-for-application-of-artificial-intelligence-in-biomedical-research-and-healthcare,,2026-09-16,include,icmr2023aiethics,3.6; 8,no
+Medical Devices Rules 2017 (G.S.R. 78(E)),rules,CDSCO; MoHFW,https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/Medical%20Devices%20Rules%2C%202017.pdf,,2026-09-17,include,cdsco2017mdr,8,no
+New Drugs and Clinical Trials Rules 2019 (G.S.R. 227(E)),rules,CDSCO; MoHFW,https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE%2C%202019.pdf,,2026-09-17,include,cdsco2019ndct,8,no
+Guidance Document on Medical Device Software under MDR 2017 (2026),guidance,CDSCO,https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf,,2026-09-17,include,cdsco2026mdsw,8,no
+WHO Ethics and Governance of Artificial Intelligence for Health 2021,guidance,World Health Organization,https://iris.who.int/server/api/core/bitstreams/f780d926-4ae3-42ce-a6d6-e898a5562621/content,,2026-09-16,include,who2021aiethics,8,no
+IndiaAI Mission portal,web page,MeitY / IndiaAI,https://indiaai.gov.in/,,2026-09-10,include,meity2026indiaai,3.6; 5.5,no
+IndiaAI Mission cabinet approval (INR 10371.92 crore),press release,Press Information Bureau,https://pib.gov.in/,,,include,,3.6; 5.5,find exact PIB release (Mar 2024) and add URL
+IndiaAI sovereign foundation-model selection (12 LLMs; 8 SLMs),press release,Press Information Bureau / IndiaAI,https://indiaai.gov.in/,,,include,,3.6; 5.5,find exact release and add URL + date
+AIKosh national dataset platform,web page,IndiaAI,https://aikosh.indiaai.gov.in/,,,include,,5.4; 5.5,confirm URL; record dataset count on access date
+AIRAWAT national AI compute,web page,MeitY / C-DAC,https://airawat.gov.in/,,,include,,5.5,confirm URL
+Bhashini (National Language Translation Mission),web page,MeitY,https://bhashini.gov.in/,,,include,,5.6; 7,no
+Satmed-Health non-contrast brain CT protocol page,web page,Satmed-Health (commercial),https://www.satmed-health.com/non-contrast-brain-ct-protocol/,,2026-09-16,exclude,satmedhealth,,replace with peer-reviewed NCCT series (see review tab)
+Tanuh IndiNeuroFM product page,web page,Tanuh AI (commercial),https://www.tanuh.ai/solutions/indineurofm,,,include,,5.4,commercial claim; cite only as evidence of industry interest

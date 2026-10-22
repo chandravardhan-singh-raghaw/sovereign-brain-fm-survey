@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this catalogue, please cite the survey and this repository."
+title: "Toward Sovereign Indian Brain Foundation Models: survey companion repository"
+type: dataset
+authors:
+  - family-names: "AUTHOR-SURNAME"
+    given-names: "AUTHOR-GIVEN"
+    affiliation: "INSTITUTION, India"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-10-22"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/chandravardhan-singh-raghaw/sovereign-brain-fm-survey"
+keywords:
+  - foundation models
+  - neuroimaging
+  - brain MRI
+  - EEG
+  - self-supervised learning
+  - data sovereignty
+  - India
+preferred-citation:
+  type: article
+  title: "Toward Sovereign Indian Brain Foundation Models: Opportunities, Challenges, and Future Directions"
+  authors:
+    - family-names: "AUTHOR-SURNAME"
+      given-names: "AUTHOR-GIVEN"
+  journal: "Medical Image Analysis"
+  year: 2026
+  notes: "Under review"

@@ -1,0 +1,7 @@
+template,population,n_subjects,age_range,contrast,reference,download,notes
+"Indian Brain Templates (IBT), five age bands","Indian (multi-site, multi-scanner)",466,6-60,T1w,"Holla et al. 2020, Hum Brain Mapp 41:5164 (doi:10.1002/hbm.25182)",https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/template_atlas/ibt.html,Distributed with AFNI; includes maximum probability map atlases
+IBA100,Indian,100,young adults,T1w,Sivaswamy et al. (verify citation and year),(add),"Smaller height, width and volume than MNI152, Chinese and Korean references"
+Rao et al. Indian template,Indian,27 (matched to 27 Caucasian),25-34,T1w,"Rao et al. 2017, Psychiatry Res Neuroimaging 265:1",(not public),First Indian vs MNI-152 comparison
+Bhalerao et al. Indian template,Indian,157,adults,T1w,"Bhalerao et al. 2018, Asian J Psychiatry 35:93",(add),Compared with MNI-152 and Chinese-56
+MNI152 / ICBM152,Predominantly Western,152,18-44,"T1w (+T2, PD)","Fonov et al. 2011, NeuroImage 54:313 (verify)",https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009,De facto default in most pipelines
+Chinese2020 / Chinese-56,Chinese,(varies),adults,T1w,(verify),(add),Comparator used by Indian template studies

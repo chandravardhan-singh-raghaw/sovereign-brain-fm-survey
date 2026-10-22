@@ -1,0 +1,3 @@
+# Raw database exports
+
+The raw exports (PubMed, IEEE Xplore, Scopus, ACM DL CSV/BibTeX; OpenReview and preprint API outputs) are not redistributed here because the database vendors' terms restrict bulk redistribution. `../screened.csv` contains every unique record with title, year, venue, identifier and screening decision, which is sufficient to reproduce the selection. To regenerate from scratch, run the queries in `../protocol.md` and place the exports in this folder as `1_pubmed.csv`, `2_ieee.csv`, `3_scopus.csv`, `4_acm.bib`, `5_openreview.csv`, `6_preprints.csv`, then run the scripts in order.

@@ -1,0 +1,11 @@
+source,type,organisation,url,archived_url,date_accessed,decision,bibkey,used_in_section,verify
+Ayushman Bharat Digital Mission dashboard (ABHA and linked records counts),dashboard,National Health Authority,https://abdm.gov.in/,,,include,,5.6,record ABHA count and linked-records count with access date
+CBR-SANSCOG cohort (Srinivaspura Aging Neuro Senescence and Cognition),cohort paper,Centre for Brain Research IISc,https://cbr-iisc.ac.in/,,,include,,5.1,add protocol paper DOI (Ravindranath et al.; verify) and current n
+CBR-TLSA cohort (Tata Longitudinal Study of Aging),cohort paper,Centre for Brain Research IISc,https://cbr-iisc.ac.in/,,,include,,5.1,add protocol paper DOI (Sundarakumar et al.; verify) and current n
+LoCARPoN normative ageing MRI (AIIMS Delhi),cohort paper,AIIMS New Delhi,,,,include,nair2023multimodal,3.2; 5.1,no (peer-reviewed; in bib)
+cVEDA developmental cohort,cohort paper,NIMHANS; PGIMER; others,,,,include,,5.1,add Sharma et al. 2020 BMC Psychiatry DOI (verify)
+LASI and LASI-DAD,cohort paper,IIPS; USC; Harvard,https://lasi-dad.org/,,,include,,3.1; 5.1,add Lee et al. design paper DOI (verify)
+CQ500 head-CT dataset,dataset page,Qure.ai / CARING,http://headctstudy.qure.ai/,,,include,chilamkurthy2018deep,5.2; 5.4,confirm URL still live
+Indian Brain Templates (IBT) ages 6-60 (Holla 2020),dataset page,NIMHANS / St John's / AFNI,https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/template_atlas/ibt.html,,2026-10-21,include,holla2020series,3.2; 5.3,no
+IBA100 Indian brain atlas,dataset page,IIIT Hyderabad,,,,include,,3.2; 5.3,add Sivaswamy et al. DOI and download URL (verify)
+GBD India neurological disorders 1990-2019 (Lancet Glob Health 2021),report,India State-Level Disease Burden Initiative,,,,include,,3.1,add DOI 10.1016/S2214-109X(21)00164-9 (verify)
